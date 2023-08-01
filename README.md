@@ -10,4 +10,4 @@ My main programming languages are
 - Python
 - Javascript
 
-While all my contributions are marked and managed via this profile to upstreams with PRs, a bunch of my own repositories have been migrated to [grookage](https://gitlab.phonepe.com/grookage) and managed there. 
+While all my contributions are marked and managed via this profile to upstreams with PRs, a bunch of my own repositories have been migrated to [grookage](https://github.com/grookage) and managed there. 
