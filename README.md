@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an open source programmer and a polyglot working on building a variety of tools. 
+I'm a computer science engineer, a software architect and a polyglot working on building a variety of tools. 
 
 My main programming languages are 
 
