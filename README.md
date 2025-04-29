@@ -25,7 +25,7 @@ The various ideas include (not limited to)
 - Building blocks to setup middlewares and API proxies - with sync and async http clients
 - Utilitarian offerings such as a maker-checker service with multiple repository bindings, a cataloging and dynamic discovery offering, an http backed data refresher, a DSL on top of elasticsearch queries useful for building custom UIs. 
 - Performance Engineering tools like Chaos Monkey equivalents
-- Data Governance offerings, such as schema registries and schema transformers with message demultiplexing support.
+- Data Governance offerings, such as clean data rooms, schema registries and schema transformers with message demultiplexing support.
 - A scratchy, experimental relational database written in C++
 
 The list may grow with time, and I'll try to add to the list of offerings. Please fork and submit an MR for any bugs/improvements/feature-additions and so on. Cheers! 
