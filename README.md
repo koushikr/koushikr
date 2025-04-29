@@ -12,7 +12,7 @@ The programming languages I often use are,
 - Python
 - Javascript
 
-While all my contributions are marked and managed, a bunch of my other repos also exist at [koushikr](https://github.com/koushikr) and managed there. 
+While all my contributions are marked and managed, a bunch of my other repos also exist at [grookage](https://github.com/grookage) and managed there. 
 
 ### About Grookage
 
