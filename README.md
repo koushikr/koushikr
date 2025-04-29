@@ -16,7 +16,7 @@ While all my contributions are marked and managed, a bunch of my other repos als
 
 ### About Grookage
 
-Grookage is a collection of software applications predominantly written in Java, useful as building blocks to setup an Internet company. 
+[Grookage](https://github.com/grookage) is a collection of software applications predominantly written in Java, useful as building blocks to setup an Internet company. 
 
 The various ideas include (not limited to)
 
