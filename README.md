@@ -7,7 +7,7 @@ My name is Koushik. I'm a computer science engineer from Bangalore, India.
 The programming languages I often use are, 
 
 - Java
-- C
+- Rust
 - C++
 - Python
 - Javascript
